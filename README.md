@@ -6,7 +6,7 @@ Python solution for Grind 169 questions
 
 Leetcode problems solutions with approach. 
 
-Topic Array:
+***Topic Array***:
 
 Problem 1: 
 [Leetcode 1. Two Sum](https://leetcode.com/problems/two-sum/)  
