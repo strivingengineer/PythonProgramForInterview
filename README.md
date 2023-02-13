@@ -6,7 +6,7 @@ Python solution for Grind 169 questions
 
 ## LeetCode problems solutions with approach. 
 
-###Topic Array:
+## Topic Array:
 
 Problem 1: 
 [Leetcode 1. Two Sum](https://leetcode.com/problems/two-sum/)  
@@ -107,7 +107,7 @@ Problem 24:
 [Leetcode 435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)  
 [Solution]()
 
-###Topic Binary Search
+## Topic Binary Search
 
 
 
