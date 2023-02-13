@@ -67,7 +67,7 @@ Problem 14:
 
 Problem 15: 
 [Leetcode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)  
-[Solution]()
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/arrays/rotate_array.py)
 
 Problem 16: 
 [Leetcode 525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)  
