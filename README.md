@@ -105,7 +105,7 @@ Problem 23:
 
 Problem 24: 
 [Leetcode 435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)  
-[Solution]()
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/arrays/non-overlapping_intervals.py)
 
 ## Topic Binary Search
 
