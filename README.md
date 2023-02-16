@@ -30,7 +30,7 @@ Problem 5:
 
 Problem 6: 
 [Leetcode 39. Combination Sum](https://leetcode.com/problems/combination-sum/)  
-[Solution]()
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/arrays/combination_sum.py)
 
 Problem 7: 
 [Leetcode 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)  
