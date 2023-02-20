@@ -55,7 +55,7 @@ Problem 11:
 Problem 12: Leetcode Premium
 [Leetcode Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)  
 [Lintcode link to problem](https://www.lintcode.com/problem/920/)
-[Solution]()
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/arrays/meeting_rooms.py)
 
 Problem 13: 
 [Leetcode 134. Gas Station](https://leetcode.com/problems/gas-station/)  
