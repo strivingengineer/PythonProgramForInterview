@@ -63,7 +63,7 @@ Problem 13:
 
 Problem 14: 
 [Leetcode 128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  
-[Solution]()
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/arrays/longest_consecutive_sequence.py)
 
 Problem 15: 
 [Leetcode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)  
