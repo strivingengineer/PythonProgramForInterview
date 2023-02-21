@@ -59,7 +59,7 @@ Problem 12: Leetcode Premium
 
 Problem 13: 
 [Leetcode 134. Gas Station](https://leetcode.com/problems/gas-station/)  
-[Solution]()
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/arrays/gas_station.py)
 
 Problem 14: 
 [Leetcode 128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  
