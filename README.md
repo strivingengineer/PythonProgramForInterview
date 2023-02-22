@@ -71,7 +71,7 @@ Problem 15:
 
 Problem 16: 
 [Leetcode 525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)  
-[Solution]()
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/arrays/contiguous_array.py)
 
 Problem 17: 
 [Leetcode 560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  
