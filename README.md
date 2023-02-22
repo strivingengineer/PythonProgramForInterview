@@ -108,6 +108,13 @@ Problem 24:
 [Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/arrays/non-overlapping_intervals.py)
 
 ## Topic Binary Search
+Problem 1: 
+[Leetcode 704. Binary Search](https://leetcode.com/problems/binary-search/)  
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/binary_search/binary_search.py)
+
+Problem 2: 
+[Leetcode 278. First Bad Version](https://leetcode.com/problems/first-bad-version/)  
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/binary_search/first_bad_version.py)
 
 
 
