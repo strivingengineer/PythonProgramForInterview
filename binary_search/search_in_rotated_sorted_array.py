@@ -67,3 +67,29 @@ def search(nums, target):
                 left = mid + 1
 
     return -1
+
+# recursive solution for problem
+def search(nums, target):
+
+    def helper(nums, target, start, end):
+
+        mid = start + (end - start) // 2
+
+        if start > end:
+            return -1
+
+        if nums[mid] == target:
+            return mid
+
+        elif nums[start] <= nums[mid]:
+            if nums[start] <= target <= nums[mid]:
+                return helper(nums, target, start, mid - 1)
+            else:
+                return helper(nums, target, mid + 1, end)
+        else:
+            if nums[mid] <= target <= nums[end]:
+                return helper(nums, target, mid + 1, end)
+            else:
+                return helper(nums, target, start, mid - 1)
+
+    return helper(nums, target, 0, len(nums) - 1)
