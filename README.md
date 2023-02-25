@@ -116,5 +116,8 @@ Problem 2:
 [Leetcode 278. First Bad Version](https://leetcode.com/problems/first-bad-version/)  
 [Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/binary_search/first_bad_version.py)
 
+Problem 3: 
+[Leetcode 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)  
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/binary_search/search_in_rotated_sorted_array.py)
 
 
