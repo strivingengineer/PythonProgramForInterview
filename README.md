@@ -75,7 +75,7 @@ Problem 16:
 
 Problem 17: 
 [Leetcode 560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)  
-[Solution]()
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/arrays/subarray_sum_equals_K.py)
 
 Problem 18: Leetcode Premium
 [Leetcode Employee Free Time](https://leetcode.com/problems/employee-free-time/)  
