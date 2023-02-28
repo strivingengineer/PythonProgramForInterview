@@ -124,3 +124,7 @@ Problem 7:
 [Leetcode 74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)  
 [Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/binary_search/search_a_2D_matrix.py)
 
+Problem 8: 
+[Leetcode 153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/binary_search/find_minimum_in_rotated_sorted_array.py)
+
