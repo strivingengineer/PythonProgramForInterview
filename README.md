@@ -120,6 +120,10 @@ Problem 3:
 [Leetcode 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)  
 [Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/binary_search/search_in_rotated_sorted_array.py)
 
+Problem 4: 
+[Leetcode 981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)  
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/binary_search/time_based_key_value_store.py)
+
 Problem 7: 
 [Leetcode 74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)  
 [Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/binary_search/search_a_2D_matrix.py)
