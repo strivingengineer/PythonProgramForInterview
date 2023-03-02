@@ -107,6 +107,12 @@ Problem 24:
 [Leetcode 435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)  
 [Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/arrays/non-overlapping_intervals.py)
 
+## String
+Problem 1: 
+[Leetcode 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)  
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/string/valid_%20palindrome.py)
+
+
 ## Topic Binary Search
 Problem 1: 
 [Leetcode 704. Binary Search](https://leetcode.com/problems/binary-search/)  
