@@ -29,7 +29,7 @@ s consists only of printable ASCII characters.
 
 Approach: We can use the two pointer approach to check if the string is Palindrome or not only thing we need to focus
 is that we are only checking the Alphanumeric characters include letters and numbers if current character is not among
-them then we increase or decrease the pomiters.
+them then we increase or decrease the pointers.
 Time/Space Complexity: O(n)/O(1)
 '''
 
