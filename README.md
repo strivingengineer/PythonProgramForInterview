@@ -110,8 +110,11 @@ Problem 24:
 ## String
 Problem 1: 
 [Leetcode 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)  
-[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/string/valid_%20palindrome.py)
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/string/valid_palindrome.py)
 
+Problem 2: 
+[Leetcode 242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)  
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/string/valid_anagram.py)
 
 ## Topic Binary Search
 Problem 1: 
