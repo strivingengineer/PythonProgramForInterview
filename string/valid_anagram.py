@@ -1,4 +1,3 @@
-
 maintainer = 'strivingengineer'
 '''
 Leetcode 242. Valid Anagram
