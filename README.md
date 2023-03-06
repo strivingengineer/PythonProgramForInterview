@@ -118,7 +118,7 @@ Problem 2:
 
 Problem 4: 
 [Leetcode 409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)  
-[Solution]()
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/string/longest_palindrome.py)
 
 ## Topic Binary Search
 Problem 1: 
