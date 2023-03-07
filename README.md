@@ -116,6 +116,10 @@ Problem 2:
 [Leetcode 242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)  
 [Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/string/valid_anagram.py)
 
+Problem 3: 
+[Leetcode 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)  
+[Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/string/longest_substring_without_repeating_characters.py)
+
 Problem 4: 
 [Leetcode 409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)  
 [Solution](https://github.com/strivingengineer/PythonProgramForInterview/blob/main/string/longest_palindrome.py)
