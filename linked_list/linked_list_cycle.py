@@ -29,7 +29,8 @@ The number of the nodes in the list is in the range [0, 104].
 pos is -1 or a valid index in the linked-list.
 
 Follow up: Can you solve it using O(1) (i.e. constant) memory?
-
+Approach: We can use slow and fast pointer and iterate over the linked list if pointers matches we return True else
+False
 Time/Space: O(n)/O(1)
 '''
 
@@ -53,3 +54,23 @@ class Solution:
                 return True
 
         return False
+
+    ''' 
+    Another approach can be using extra memory to store visited node in a set and check if current value already
+    exists in set then return True else in the end return False
+    Time/Space: O(n)/O(n)
+    '''
+
+    def hasCycle(self, head: [ListNode]) -> bool:
+
+        visited = set()
+
+        while head:
+
+            if head in visited:
+                return True
+            visited.add(head)
+            head = head.next
+
+        return False
+
