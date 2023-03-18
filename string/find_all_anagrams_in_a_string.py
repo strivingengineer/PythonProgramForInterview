@@ -38,6 +38,9 @@ def findAnagrams(s, p):
     freq_s = [0] * 26
     res = []
 
+    if len(s) < len(p):
+        return res
+
     # Create frequency table for p
     for c in p:
         freq_p[ord(c) - ord('a')] += 1
